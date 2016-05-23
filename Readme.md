@@ -2,6 +2,8 @@
 
 ## Introduction
 
+[Object Detection from Video Tubelets with Convolutional Neural Networks](http://arxiv.org/pdf/1604.04053v1.pdf)
+
 The `vdetlib` python library serves to detection objects in videos. It was originally developed for the [ImageNet VID](http://image-net.org/challenges/LSVRC/2015/index#vid) challenge introduced in [ILSVRC2015](http://image-net.org/challenges/LSVRC/2015/). It contains components such as **region proposal**, **still-image object detection**, **generic object tracking**, **spatial max-pooling** and **temporal convolution**.
 
 
